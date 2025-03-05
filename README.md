@@ -48,8 +48,3 @@ Student Learn Plan Link:  https://learn.microsoft.com/en-us/plans/gm88tr6o5y5zyk
 Student Learn Plan Link:  https://learn.microsoft.com/en-us/plans/31zzc4mw2wk5re?tab=tab-created&learnerGroupId=dc7e5044-8227-4b65-8094-804387a2b3c7&wt.mc_id=studentamb_448266
 
 ------------------------------------------------------------------------------------------------------
-
-9. Explore AI (1 Module):
-
-Learn Plan Link: https://learn.microsoft.com/en-us/plans/w255c4z7dm4dgr?tab=tab-created&learnerGroupId=61d922fe-4f51-407a-8c81-d45414aae2bd&wt.mc_id=nxg_studentamb_exp1_wwl_448266
-------------------------------------------------------------------------------------------------------
